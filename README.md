@@ -1,5 +1,11 @@
 # Projeto SAP-5 Microcontrolador com Periféricos - Logisim 2.7.1
 
+
+## 👨‍💻 Autores
+- Mateus Gonçalves
+- Lucca Sander Frisso
+- Artur Rizzi Martinho
+
 ## 📌 Descrição
 
 Este projeto é uma extensão da arquitetura SAP-5, implementado no **Logisim versão 2.7.1**, com a adição de **periféricos que o transformam em um microcontrolador funcional**, incluindo:
